@@ -13,11 +13,11 @@ varias lineas✅
 */
 
 // 3. Declara variables con valores asociados a todos los datos de tipo primitivos
-var nombre = "Luis"
-var edad = 20
-var isStudent = true
-var undefinedValue
-var sinvalor = null
+let nombre = "Luis"
+let edad = 20
+let isStudent = true
+let undefinedValue
+let sinvalor = null
 //✅
 
 // 4. Imprime por consola el valor de todas las variables
@@ -73,4 +73,5 @@ console.log(nullValue)
 //✅
 
 // 10. Comenta las líneas que produzcan algún tipo de error al ejecutarse
+//Comente el ejercicio9 ya que no se pueden modificar los valores de un const
 //✅
